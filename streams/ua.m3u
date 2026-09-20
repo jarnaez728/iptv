@@ -283,8 +283,6 @@ https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
 #EXTINF:-1 tvg-id="SuspilneSport.ua@SD",Suspilne. Sport (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/444/index.m3u8
-#EXTINF:-1 tvg-id="Svarozhychy.ua@SD",Svarozhychy
-http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:-1 tvg-id="SvitPlus.ua@SD",Svit+ (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/358/index.m3u8
@@ -506,19 +504,67 @@ http://stream.mcquack.net/324/index.m3u8
 http://stream.mcquack.net/325/index.m3u8
 #EXTINF:-1 tvg-id="PixelTV.ua@SD",Pixel TV (1080p)
 http://stream.mcquack.net/323/index.m3u8
-#EXTINF:-1 tvg-id="ICTV.ua@SD",ICTV (1080p)
-http://dtv.vol.net.ua/ICTV_HD/index.m3u8
-#EXTINF:-1 tvg-id="RAZ3.ua@SD",RAZ 3 (1080p)
-http://dtv.vol.net.ua/Kvartal-TV/index.m3u8
 #EXTINF:-1 tvg-id="M1.ua@SD",M1 (1080p)
 http://dtv.vol.net.ua/M1-HD/index.m3u8
 #EXTINF:-1 tvg-id="Mega.ua@SD",Mega (1080p)
 http://dtv.vol.net.ua/MEGA_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.ua@SD",Viasat History (576p)
-http://dtv.vol.net.ua/Viasat-History/index.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.ua@SD",Viasat Nature (576p)
-http://dtv.vol.net.ua/Viasat-Nature/index.m3u8
 #EXTINF:-1 tvg-id="HistoryUkraine.ua@SD",History Ukraine
 http://dtv.vol.net.ua/History_HD/index.m3u8
 #EXTINF:-1 tvg-id="History2Ukraine.ua@SD",History2 Ukraine (360p)
 http://dtv.vol.net.ua/H2-HD/index.m3u8
+#EXTINF:-1 tvg-id="HollywoodUkraine.ua@SD",Hollywood Ukraine (576p)
+http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ua@SD",National Geographic Wild (1080p)
+http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
+#EXTINF:-1 tvg-id="Prokino.ua@SD",Prokino (360p)
+http://dtv.vol.net.ua/ProKino/index.m3u8
+#EXTINF:-1 tvg-id="SuperPlus.ua@SD",Super+ (360p)
+http://dtv.vol.net.ua/super_plus/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@SD",Viasat Kino (576p)
+http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD",Viasat Kino Action (576p)
+http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.ua@SD",Viasat Explore (576p)
+http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusKids.ua@SD",Cine+ Kids (576p)
+http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-id="OnePlanet.ua@SD",One Planet (1080p)
+http://dtv.vol.net.ua/OnePlanet/index.m3u8
+#EXTINF:-1 tvg-id="UPLTV.ua@SD",UPL.TV
+http://dtv.vol.net.ua/UPL-TV/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria",Viasat Kino Bulgaria (1080p)
+http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
+#EXTINF:-1 tvg-id="SuspilneDonbas.ua@SD",Suspilne. Donbas (576p)
+http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
+#EXTINF:-1 tvg-id="Svarozhychy.ua@SD",Svarozhychy
+http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.ua@SD",Viasat History (1080p)
+http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
+#EXTINF:-1 tvg-id="1Plus1Ukraina.ua@SD",1+1 Ukraina (576p)
+http://str2.iptvhd.ru:8080/1plus1/index.m3u8
+#EXTINF:-1 tvg-id="2Plus2.ua@SD",2+2 (576p)
+http://str2.iptvhd.ru:8080/2plus2/index.m3u8
+#EXTINF:-1 tvg-id="EnterFilm.ua@SD",Enter-Film (1080p)
+http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8
+#EXTINF:-1 tvg-id="ICTV.ua@SD",ICTV (1080p)
+http://str2.iptvhd.ru:8080/ICTV/index.m3u8
+#EXTINF:-1 tvg-id="Inter.ua@SD",Inter (1080p)
+http://str2.iptvhd.ru:8080/Inter/index.m3u8
+#EXTINF:-1 tvg-id="NTN.ua@SD",NTN (1080p)
+http://str2.iptvhd.ru:8080/NTN/index.m3u8
+#EXTINF:-1 tvg-id="STB.ua@SD",STB (1080p)
+http://str2.iptvhd.ru:8080/STB/index.m3u8
+#EXTINF:-1 tvg-id="TET.ua@SD",TET (1080p)
+http://str2.iptvhd.ru:8080/TET/index.m3u8
+#EXTINF:-1 tvg-id="UTravel.ua@SD",U Travel (1080p)
+http://str2.iptvhd.ru:8080/travel/index.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD",Espreso TV (1080p)
+http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8
+#EXTINF:-1 tvg-id="RAZ3.ua@SD",RAZ 3 (576p)
+http://str2.iptvhd.ru:8080/UA_kvartal/index.m3u8
+#EXTINF:-1 tvg-id="Sport1.ua@SD",Sport 1 (576p)
+http://str2.iptvhd.ru:8080/sport1/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD",Setanta Sports+ Ukraine (1080p)
+http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8
+#EXTINF:-1 tvg-id="NovynyLive.ua@SD",Novyny.Live
+rtmp://95.67.11.153/klive/stream
